@@ -11,7 +11,7 @@ index = Index.from_env()
 # On garde la structure # pour le projet et ## pour les détails
 headers_to_split_on = [
     ("#", "Titre_Projet"),
-    ("##", "Section"),
+    # ("##", "Section"),
 ]
 markdown_splitter = MarkdownHeaderTextSplitter(headers_to_split_on=headers_to_split_on)
 
