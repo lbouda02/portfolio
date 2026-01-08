@@ -14,21 +14,20 @@
 
 ---
 
-## 🎓 Formation
-### Universitaire
+## 🎓 Formation Universitaire
 * **2023 – 2025 :** 2ème année de BUT Science des Données (SD) - *Redoublement par choix de spécialisation/approfondissement.*
 * **2022 – 2023 :** 1ère année de BUT Science des Données (SD).
 * **Lieu :** IUT de Poitiers, site de Niort.
 
-### Lycéenne
+## Lycéenne
 * **2021 :** Baccalauréat Général
     * **Spécialités :** Mathématiques, Physique-Chimie.
     * **Lieu :** Lycée Camille Guérin, Poitiers.
 
 ---
 
-## 💼 Expériences Professionnelles & Stages
-### Stages Internationaux (Roumanie)
+
+## Stages Internationaux (Roumanie)
 * **Avril – Juin 2025 :** Stage en analyse de données.
     * **Mission :** Création d'un index de santé composite à partir de bases européennes.
     * **Outils :** Excel, R.
@@ -36,7 +35,7 @@
     * **Mission :** Analyse des disparités d'accès aux soins.
     * **Outils :** Excel, R.
 
-### Expériences Linguistiques & Immersion
+## Expériences Linguistiques & Immersion
 * **2018 :** Immersion en famille américaine (Californie, été).
 * **2017 :** Immersion en famille anglaise (France).
 * **2016 :** Formation linguistique au CAREL de Royan (1 semaine).
@@ -44,13 +43,13 @@
 
 ---
 
-## 🛠 Compétences Techniques
-### Langages Informatiques
+
+## Langages Informatiques
 * **Analyse de données :** R, Python, SAS.
 * **Bases de données :** SQL.
 * **Automatisation :** VBA (Excel).
 
-### Projets Académiques Clés
+## Projets Académiques Clés
 * **Gestion de données :** Conception d’un programme de gestion de fichiers CSV et JSON.
 * **Outils BI :** Création d’un outil dynamique de gestion de notes en VBA.
 * **Études & Enquêtes :** Création et analyse d’enquêtes avec **Sphinx**.

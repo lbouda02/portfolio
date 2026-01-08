@@ -1,7 +1,6 @@
 
-# Accueil : Lucas Boudaud
 
-## Bienvenue sur mon site
+# Bienvenue sur mon site
 Bonjour ! Je m'appelle **Lucas Boudaud**. 
 
 ## À propos
