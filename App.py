@@ -51,8 +51,10 @@ def consulter_portfolio(query: str) -> str:
 NANO_MODEL_ID: str = "gpt-4.1-nano" 
 
 AGENT_INSTRUCTIONS: str = (
-    "Tu es un assistant concis. Utilise le contexte fourni pour répondre. "
-    "Si l'info manque, dis-le. 3 phrases maximum. Réponds en français."
+    "You are an assistant for question-answering tasks. Use the following pieces of "
+    "retrieved context to answer the question. If you don't know the answer, "
+    "just say that you don't know. Use three sentences maximum and keep the answer concise. "
+    "Réponds en français si la question est en français."
 )
 
 mon_agent: Agent = Agent(
@@ -77,7 +79,7 @@ def main() -> None:
         with st.chat_message(message["role"]):
             st.markdown(message["content"])
 
-    if prompt := st.chat_input("Posez votre question ici..."):
+    if prompt := st.chat_input("Ex: Parle-moi du projet OAT..."):
         st.session_state.messages.append({"role": "user", "content": prompt})
         with st.chat_message("user"):
             st.markdown(prompt)
