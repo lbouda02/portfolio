@@ -66,7 +66,7 @@ NANO_MODEL_ID: str = "gpt-4.1-nano"
 AGENT_INSTRUCTIONS: str = (
     "You are an assistant for question-answering tasks. Use the following pieces of "
     "retrieved context to answer the question. If you don't know the answer, "
-    "just say that you don't know. Use three sentences maximum and keep the answer concise. "
+    "just say that you don't know. be verbose and detailed in your answers. "
     "Réponds en français si la question est en français."
 )
 
